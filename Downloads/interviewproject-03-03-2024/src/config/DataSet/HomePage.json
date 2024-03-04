@@ -1,0 +1,190 @@
+{
+    "BannerPart" : {
+        "BannerSlider" : [
+            {
+                "Heading": "welcome to fashion",
+                "Paragrahy": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, ullam debitis culpa quis minus amet."
+            },
+            {
+                "Heading": "welcome to fashion",
+                "Paragrahy": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, ullam debitis culpa quis minus amet."
+            },
+            {
+                "Heading": "welcome to fashion",
+                "Paragrahy": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, ullam debitis culpa quis minus amet."
+            }
+        ]
+    },
+
+    "offersHeading" : {
+        "Heading" : "Offers Products"
+    },
+
+    "offersPart" :  {
+        "offersData" : [
+            {
+                "Heading": "Coffe Maker",
+                "Price": "$215.00"
+            },
+            {
+                "Heading": "Pc Cabenet",
+                "Price": "$345.00"
+            },
+            {
+                "Heading": "Camera",
+                "Price": "$700.00"
+            },
+            {
+                "Heading": "Refrigerator",
+                "Price": "$650.00"
+            }
+        ]
+    },
+
+    "cataHeading" : {
+        "Heading" : "Popular Categories"
+    },
+
+    "cataPart" :  {
+        "cataData" :  [
+            {
+                "Heading": "Home Apliances"
+            },
+            {
+                "Heading": "Mobile"
+            },
+            {
+                "Heading": "Office"
+            },
+            {
+                "Heading": "Camera"
+            },
+            {
+                "Heading": "Laptop"
+            },
+            {
+                "Heading": "Sound Sysyem"
+            },
+            {
+                "Heading": "Television"
+            },
+            {
+                "Heading": "Projecter"
+            }
+        ]
+    },
+
+    "latestHeading" : {
+        "Heading" : "Latest Products"
+    },
+
+    "latestPart" :  {
+        "latestSlider" :  [
+            {
+                "Heading": "I-Pad",
+                "SubHeading": "$550.00"
+            },
+            {
+                "Heading": "Tablet",
+                "SubHeading": "$150.00"
+            },
+            {
+                "Heading": "Airpurify",
+                "SubHeading": "$99.00"
+            },
+            {
+                "Heading": "Television",
+                "SubHeading": "$170.00"
+            },
+            {
+                "Heading": "Mobile",
+                "SubHeading": "$120.00"
+            },
+            {
+                "Heading": "Smart Watch",
+                "SubHeading": "$120.00"
+            },
+            {
+                "Heading": "Security Camera",
+                "SubHeading": "$148.00"
+            },
+            {
+                "Heading": "Gameing",
+                "SubHeading": "$46.00"
+            }
+        ]
+    }, 
+
+    "clientHeading" : {
+        "Heading" : "Happy clients",
+        "paragraphy" : "Discover New York’s best things to do, restaurants, theatre, nightlife and more"
+    },
+
+    "clientPart" :  {
+        "clientSlider" : [
+            {
+                "paragraphy": " Different types of housing can be use same physical type. Many industries, including construction, rely on these measurements",
+                "Name": "Sima Roy"
+            },
+            {
+                "paragraphy": " Different types of housing can be use same physical type. Many industries, including construction, rely on these measurements",
+                "Name": "Mita Roy"
+            },
+            {
+                "paragraphy": " Different types of housing can be use same physical type. Many industries, including construction, rely on these measurements",
+                "Name": "Riya Roy"
+            }
+        ]
+    },
+
+    "blogHeading" : {
+        "Heading" : "Our Blog"
+    },
+
+    "blogPart" :  {
+        "blogSlider" : [
+            {
+                "SubHeading": "Special Offers..",
+                "paragraph": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus perferendis assumenda dolor aperiam quas? Ex ratione illum dolorem unde."
+            },
+            {
+                "SubHeading": "Special Deal..",
+                "paragraph": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus perferendis assumenda dolor aperiam quas? Ex ratione illum dolorem unde."
+            },
+            {
+                "SubHeading": "Comeingsoon Offers..",
+                "paragraph": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus perferendis assumenda dolor aperiam quas? Ex ratione illum dolorem unde."
+            }
+        ]
+    },
+
+    "CompanyHeading" : {
+        "Heading" : "Trusted Brand"
+    },
+
+    "companyPart": {
+        "companySlider" : [
+            {
+                
+            },
+            {
+
+            },
+            {
+
+            },
+            {
+
+            },
+            {
+                
+            },
+            {
+
+            },
+            {
+                
+            }
+        ]
+    }
+}

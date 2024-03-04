@@ -1,0 +1,26 @@
+{
+    "ServicesHeading" : {
+        "Heading" : "Property Services",
+        "paragraphy" : "Discover New York’s best things to do, restaurants, theatre, nightlife and more"
+    },
+
+    "servicePart" :  {
+        "serviceData" :  [
+            {   
+                "id": 1,
+                "Heading": "sumit",
+                "Paragraphy": "Property management is the control, maintenance of real estate and physical property." 
+            },
+            {
+                "id": 2,
+                "Heading": "Saidul",
+                "Paragraphy": "Residences can be classified by and how they are connected to neighbouring residences and land." 
+            },
+            {
+                "id": 3,
+                "Heading": "Currency Services",
+                "Paragraphy": "A currency is standardization of money in any form when use or circulation as medium of exchange." 
+            }
+        ]
+    }
+}
